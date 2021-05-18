@@ -38,6 +38,14 @@ We'll start our journey today onwards and will be starting with the basics of th
     3.8 Go Seed Value <br/>
     3.9 Go Random Number Generator <br/>
 4. [Functions](Chapters/Chapter-4-Functions/chapter-4-Functions.md) <br/>
+    4.1 
+    4.2 
+    4.3 
+    4.4 
+    4.5 
+    4.6 
+    4.7 
+    4.8 
    
 ## Roadmap
 
@@ -47,4 +55,5 @@ We'll start our journey today onwards and will be starting with the basics of th
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Codecademy Go Cheatsheet](https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet)
 * [Golang Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+* [Go Tutorial Series - Digital Ocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
 
