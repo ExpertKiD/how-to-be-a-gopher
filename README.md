@@ -21,7 +21,7 @@ We'll start our journey today onwards and will be starting with the basics of th
     2.4 Go Errors <br/>
     2.5 Go Strings <br/>
     2.6 Go Zero Values <br/>
-    2.7 Go Inferred Int Type <br/>
+    2.7 Go Inferred Type <br/>
     2.8 Go Updating Variables <br/>
     2.9 Go Multiple Variable Declaration <br/>
     2.10 Go Fmt .Print() and .Println() <br/>
