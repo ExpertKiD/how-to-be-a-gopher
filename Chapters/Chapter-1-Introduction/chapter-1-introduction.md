@@ -25,7 +25,7 @@ First, all go program need a `main` package to run the program. Inside the main 
 
 **Note:** Go program must use all the imports. Otherwise, an error will be thrown while running the program stating to either use the import or remove it.
 
-##1.2 Go Comments
+## 1.2 Go Comments
 Comments are useful for documentation in a Go file and are ignored by the compiler. There are two types of comments:
 
 * a single-lined comment is preceded by a double forward slash, `//`, and ends at the end of the line.
@@ -40,7 +40,7 @@ is on multiple lines
 and ends here
 */
 ```
-##1.3 Go Documentation
+## 1.3 Go Documentation
 In Go, comments can be used as built-in documentation. To check the role of a function, in the command line, use the 
 command `go doc` followed by a package or the function of a package. For example:
 
@@ -71,7 +71,7 @@ import (
 )
 ```
 
-##1.4 Go Compiler
+## 1.4 Go Compiler
 As a compiled language, Go does not run until its source file is processed through a separate software called a compiler
 to produce a final executable program. The Go compiler can be accessed on the command line via a generic command such as:
 
@@ -79,7 +79,7 @@ to produce a final executable program. The Go compiler can be accessed on the co
 go <command> [arguments]
 ```
 
-##1.5 Packages in Go
+## 1.5 Packages in Go
 A Go package is a directory made up of a collection of Go source files that are compiled together. This collection of 
 reusable code typically contains functions related to a specific topic or concept. To use code from a particular package,
 we simply import it into our Go source file.
@@ -91,14 +91,14 @@ keyword import followed by the package name.
 import "fmt"
 ```
 
-#1.6 Running Files in Go
+# 1.6 Running Files in Go
 The Go compiler can execute Go code from the source file without producing an executable file. Instead of build, use run. To do this, type the following in the command line:
 
 ```go 
 $ go run exampleFile.go
 ```
 
-#1.7 Compile Go
+# 1.7 Compile Go
 The Go compiler takes a Go source file with a .go extension, processes it and produces an executable file without any extension. To compile a Go source file, test.go, type at the command line:
 
 ```go
