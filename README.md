@@ -5,6 +5,6 @@ This is my guide to learning Go language from beginner level. You do not need an
 We'll start our journey today onwards and will be starting with the basics of the language. Anything vast or detailed will be cover in seperate chapters.
 
 ## Table of Contents
-1. [Introduction](Chapters/Chapter%201%20-%20Introduction/chapter-1-introduction.md)
+1. [Introduction](Chapters/Chapter-1-Introduction/chapter-1-introduction.md)
 
 
