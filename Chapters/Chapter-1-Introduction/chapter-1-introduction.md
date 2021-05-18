@@ -4,7 +4,7 @@ Go is a general-purpose language designed with systems programming in mind. It i
 
 The grammar is compact and simple to parse, allowing for easy analysis by automatic tools such as integrated development environments.
 
-##1.1 The Program
+## 1.1 The Program
 
 Let's now start writing our very first program. It is as you can guess a simple Hello World program.
 
