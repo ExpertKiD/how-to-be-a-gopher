@@ -113,3 +113,7 @@ $ ./test
 
 ## 1.8 Go Import Package
 To import a single package in a Go file, use the keyword `import` followed by the package name in double-quotes.
+
+```go
+import "time"
+```
