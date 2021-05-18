@@ -14,4 +14,17 @@ We'll start our journey today onwards and will be starting with the basics of th
     1.6 Running files in Go<br/>
     1.7 Compile Go<br/>
     1.8 Go Import Package<br/>
+2. [Variables and Formattings](Chapters/Chapter-2-Variables-and-Formatting/chapter-2-variables-and-formattings.md) <br/>
+    2.1 Go Values <br/>
+    2.2 Go Data Types <br/>
+    2.3 Go Variables <br/>
+    2.4 Go Errors <br/>
+    2.5 Go Strings <br/>
+    2.6 Go Zero Values <br/>
+    2.7 Go Inferred Int Type <br/>
+    2.8 Go Updating Variables <br/>
+    2.9 Go Multiple Variable Declaration <br/>
+    2.10 Go Fmt .Print() and .Println() <br/>
+    2.11 Go Fmt .Printf() Function <br/>
+    2.12 Go Fmt .Scan() Function <br/>
 
