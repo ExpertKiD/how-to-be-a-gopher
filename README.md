@@ -1,8 +1,12 @@
 # How to be a gopher?
 
-This is my guide to learning Go language from beginner level. You do not need any understanding of Go. We'll be starting from the very beginning. All the information about the Go language can be found here.
+This is my guide to learning Go language from beginner level. You do not need any understanding of Go. We'll be starting 
+from the very beginning. All the information about the Go language can be found here.
 
-We'll start our journey today onwards and will be starting with the basics of the language. Anything vast or detailed will be cover in seperate chapters.
+We'll start our journey today onwards and will be starting with the basics of the language. Anything vast or detailed 
+will be cover in seperate chapters. 
+
+**NOTE: We'll be learning using the below roadmap.**
 
 ## Table of Contents
 1. [Introduction](Chapters/Chapter-1-Introduction/chapter-1-introduction.md)<br>
@@ -38,15 +42,10 @@ We'll start our journey today onwards and will be starting with the basics of th
     3.8 Go Seed Value <br/>
     3.9 Go Random Number Generator <br/>
 4. [Functions](Chapters/Chapter-4-Functions/chapter-4-Functions.md) <br/>
-    4.1 
-    4.2 
-    4.3 
-    4.4 
-    4.5 
-    4.6 
-    4.7 
-    4.8 
-   
+    4.1 Go Pass by Value Parameter <br/>
+    4.2 Go Variable Address <br/>
+    4.3 Go Pointer Dereferencing <br/>
+    
 ## Roadmap
 
 ![Go lang Roadmap](golang-developer-roadmap.png)
