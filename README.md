@@ -13,4 +13,5 @@ We'll start our journey today onwards and will be starting with the basics of th
     1.5 Packages in Go<br/>
     1.6 Running files in Go<br/>
     1.7 Compile Go<br/>
+    1.8 Go Import Package<br/>
 

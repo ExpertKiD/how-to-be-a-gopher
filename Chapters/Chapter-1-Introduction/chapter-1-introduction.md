@@ -91,14 +91,14 @@ keyword import followed by the package name.
 import "fmt"
 ```
 
-# 1.6 Running Files in Go
+## 1.6 Running Files in Go
 The Go compiler can execute Go code from the source file without producing an executable file. Instead of build, use run. To do this, type the following in the command line:
 
 ```go 
 $ go run exampleFile.go
 ```
 
-# 1.7 Compile Go
+## 1.7 Compile Go
 The Go compiler takes a Go source file with a .go extension, processes it and produces an executable file without any extension. To compile a Go source file, test.go, type at the command line:
 
 ```go
@@ -111,5 +111,5 @@ This will produce an executable file, test. To run test, type in the command lin
 $ ./test
 ```
 
-Go Import Package
-To import a single package in a Go file, use the keyword import followed by the package name in double-quotes.
+## 1.8 Go Import Package
+To import a single package in a Go file, use the keyword `import` followed by the package name in double-quotes.
