@@ -27,6 +27,10 @@ needed to store it. Go has basic data types such as:
     * float32, float64
     * complex64, complex128
 
+Reference: 
+* [Golang Data Types](https://golang.org/ref/spec#Numeric_types)
+* [Understanding Go Data types](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)
+
 ## 2.3 Go Variables
 A Go variable has a name attached to a value but unlike a Go constant, a variable’s value can be changed after it has 
 been defined. There are four ways to declare and assign a Go variable:
@@ -95,6 +99,8 @@ boolean  false
 ## 2.7 Go Inferred Type
 When we declare a Go variable without specifying its data type and assign the variable (using `:=` or `var =`) to a whole 
 number, the Go compiler automatically infers the variable data type as an `int`. For example:
+
+Reference: [Golang Type Inference](https://tour.golang.org/basics/14#:~:text=When%20declaring%20a%20variable%20without,on%20the%20right%20hand%20side.&text=Try%20changing%20the%20initial%20value,how%20its%20type%20is%20affected.)
 
 ```go
 score := 85
