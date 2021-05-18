@@ -27,6 +27,17 @@ We'll start our journey today onwards and will be starting with the basics of th
     2.10 Go Fmt .Print() and .Println() <br/>
     2.11 Go Fmt .Printf() Function <br/>
     2.12 Go Fmt .Scan() Function <br/>
+3. [Conditionals](Chapters/Chapter-3-Conditionals/chapter-3-Conditionals.md) <br/>
+    3.1 Go If Statement <br/>
+    3.2 Go else Statement <br/>
+    3.3 Go Comparison Operators <br/>
+    3.4 Go Logical Operators <br/>
+    3.5 Go Else If Statement <br/>
+    3.6 Go Short Variable Declaration <br/>
+    3.7 Go Switch Statement <br/>
+    3.8 Go Seed Value <br/>
+    3.9 Go Random Number Generator <br/>
+4. [Functions](Chapters/Chapter-4-Functions/chapter-4-Functions.md) <br/>
    
 ## Roadmap
 
