@@ -27,6 +27,10 @@ needed to store it. Go has basic data types such as:
     * float32, float64
     * complex64, complex128
 
+Reference: 
+* [Golang Data Types](https://golang.org/ref/spec#Numeric_types)
+* [Understanding Go Data types](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)
+
 ## 2.3 Go Variables
 A Go variable has a name attached to a value but unlike a Go constant, a variable’s value can be changed after it has 
 been defined. There are four ways to declare and assign a Go variable:
@@ -92,13 +96,46 @@ string   "" (empty string)
 boolean  false
 ```
 
-## 2.7 Go Inferred Int Type
+## 2.7 Go Inferred Type
 When we declare a Go variable without specifying its data type and assign the variable (using `:=` or `var =`) to a whole 
-number, the Go compiler automatically infers the variable data type as an int. For example:
+number, the Go compiler automatically infers the variable data type as an `int`. For example:
+
+Reference: [Golang Type Inference](https://tour.golang.org/basics/14#:~:text=When%20declaring%20a%20variable%20without,on%20the%20right%20hand%20side.&text=Try%20changing%20the%20initial%20value,how%20its%20type%20is%20affected.)
 
 ```go
 score := 85
 var temperature = 60
+```
+When declaring a variable without specifying an explicit type (either by using the := syntax or var = expression syntax),
+the variable's type is inferred from the value on the right hand side.
+
+When the right hand side of the declaration is typed, the new variable is of that same type:
+
+```go
+var i int
+j := i // j is an int
+```
+
+But when the right hand side contains an untyped numeric constant, the new variable may be an `int`, `float64`, or `complex128` 
+depending on the precision of the constant:
+
+```go
+i := 42           // int
+f := 3.142        // float64
+g := 0.867 + 0.5i // complex128
+```
+
+Try changing the initial value of `v` in the example code and observe how its type is affected.
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	v := 42 // change me!
+	fmt.Printf("v is of type %T\n", v)
+}
 ```
 
 ## 2.8 Go Updating Variables

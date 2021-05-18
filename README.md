@@ -21,10 +21,19 @@ We'll start our journey today onwards and will be starting with the basics of th
     2.4 Go Errors <br/>
     2.5 Go Strings <br/>
     2.6 Go Zero Values <br/>
-    2.7 Go Inferred Int Type <br/>
+    2.7 Go Inferred Type <br/>
     2.8 Go Updating Variables <br/>
     2.9 Go Multiple Variable Declaration <br/>
     2.10 Go Fmt .Print() and .Println() <br/>
     2.11 Go Fmt .Printf() Function <br/>
     2.12 Go Fmt .Scan() Function <br/>
+   
+## Roadmap
+
+![Go lang Roadmap](golang-developer-roadmap.png)
+
+## References
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Codecademy Go Cheatsheet](https://www.codecademy.com/learn/learn-go/modules/learn-go-introduction/cheatsheet)
+* [Golang Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
