@@ -49,6 +49,8 @@ will be cover in seperate chapters.
     5.1 Introduction  <br/>
     5.2 The Go Command <br/>
     5.3 Building and Running Programs <br/>
+        5.3.1 The Run Command <br/>
+        5.3.2 The Build Command <br/>
     5.4 Testing Programs <br/>
     5.5 Managing Workspaces <br/>
     5.5 Interacting with the environment <br/>
