@@ -45,10 +45,13 @@ will be cover in seperate chapters.
     4.1 Go Pass by Value Parameter <br/>
     4.2 Go Variable Address <br/>
     4.3 Go Pointer Dereferencing <br/>
-5. [The Go CLI Playbook](Chapters/Chapter-5-The-Go-CLI-Playbook/chapter-5-the-go-cli-playbook.md)
-    5.1 
-    5.2 
-    5.3 
+5. [The Go CLI Playbook](Chapters/Chapter-5-The-Go-CLI-Playbook/chapter-5-the-go-cli-playbook.md)  <br/>
+    5.1 Introduction  <br/>
+    5.2 The Go Command <br/>
+    5.3 Building and Running Programs <br/>
+    5.4 Testing Programs <br/>
+    5.5 Managing Workspaces <br/>
+    5.5 Interacting with the environment <br/>
     
 ## Roadmap
 
